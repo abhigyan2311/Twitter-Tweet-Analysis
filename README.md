@@ -1,5 +1,3 @@
-#Real Hack
-Bangalore
-25th-26th
+#Twitter Tweet Analysis
 
-Credibility of a social feed.
+Check credibility of a tweet using various checks, algorithms and sentimental analysis.
