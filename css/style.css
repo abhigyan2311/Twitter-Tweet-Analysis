@@ -1,0 +1,22 @@
+.bform {
+	border: 3px solid #607d8b;
+	padding: 30px 10px 20px 10px;
+}
+.results {
+	padding: 10px 10px;
+	margin-top: 10px;
+	border: 3px solid #607d8b;
+}
+.rheading {
+	color:#263238;
+}
+.headtext {
+	color:#01579b ;
+}
+.credtext {
+	color:#1976d2 ;
+}
+.input-field input[type=text]:focus {
+     border-bottom: 1px solid #2196f3;
+     box-shadow: 0 1px 0 0 #2196f3;
+   }
